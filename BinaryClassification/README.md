@@ -106,7 +106,7 @@ A quantum circuit is a sequence that assigns likelihoods to respective qubits an
 </table>
 </div>
 
-The CRY-Gate, where "C" stands for Controlled, rotates the state of a qubit by a certain angle if its controlling qubit is in the |1> state. Initially, Qubit1 is set to |1> after being flipped by the X gate. Subsequently, Qubit1 is rotated by 50% using the RY Gate. As a result, the superposition state of Qubit1 becomes 0.5|0> + 0.5|1>. Derivative gates of the CRY gate, such as the CCRY gate and the CCCRY gate, are explored in depth in the subsequent section.
+Derivative gates of the CRY gate, such as the CCRY gate and the CCCRY gate, are explored in depth in the subsequent section.
 
 ## 4.	Model
 The flow chart provided below presents a structured blueprint of the quantum machine learning model designed for binary classification of wine quality.
